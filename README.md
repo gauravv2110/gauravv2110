@@ -1,8 +1,6 @@
 ![Profile Image](https://media.licdn.com/dms/image/v2/D5616AQG7hnwRWZC74g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731608320750?e=1737590400&v=beta&t=C9SFhBfwKsoA5s2nuqVPEDd0ZqOLufpqpbPmN8iHhVI)
 
-
-# 👋 Hi, I'm Gaurav Patokar!  
-
+ 
 🎯 **Data Analyst | 💡 Data Enthusiast | 🚀 Exploring Generative AI**  
 
 Welcome to my GitHub profile! I’m passionate about transforming raw data into actionable insights using tools like **Python**, **SQL**, **Power BI**, and **Excel**. My focus is on creating compelling data stories, insightful dashboards, and efficient analytical solutions.
@@ -52,29 +50,22 @@ Welcome to my GitHub profile! I’m passionate about transforming raw data into 
 
 ---
 
-## 🎓 **Certifications & Achievements**  
-- 🏆 **Ranked 3rd** in Smart India Hackathon 2022 (College Level)  
-- 📜 Certified in **Python, SQL, and Power BI** by SevenMentors Pvt Ltd  
-- 🎓 **Data Science Master’s Program** by PW Skills  
-
----
-
 ## 🌐 **Connect with Me**  
 
-<p align="left">
-  <!-- Email -->
-  <a href="mailto:patokar51@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" width="30" height="30" />
-  </a>
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/gaurav-patokar/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
-  </a>
-  <!-- GitHub -->
-  <a href="https://github.com/gauravv2110" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" height="30"/>
-  </a>
-</p>
+ <span style="display: flex; gap: 100px;">
+    <a href="mailto:patokar51@gmail.com" target="_blank">
+      <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" width="30" height="30" />
+    </a>
+    <a href="https://www.linkedin.com/in/gaurav-patokar/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
+    </a>
+    <a href="https://github.com/gauravv2110" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" height="30"/>
+    </a>
+    <a href="https://drive.google.com/drive/folders/154agCQhp5ZzqvnEmvcHxxc1Ct3I-i6Jk" target="_blank">
+      <img src="https://img.icons8.com/color/48/000000/resume.png" alt="Resume" width="30" height="30" />
+    </a>
+  </span>
 
 ---
 
