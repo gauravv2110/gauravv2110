@@ -1,3 +1,6 @@
+![Profile Image](https://media.licdn.com/dms/image/v2/D5616AQG7hnwRWZC74g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731608320750?e=1737590400&v=beta&t=C9SFhBfwKsoA5s2nuqVPEDd0ZqOLufpqpbPmN8iHhVI)
+
+
 # 👋 Hi, I'm Gaurav Patokar!  
 
 🎯 **Data Analyst | 💡 Data Enthusiast | 🚀 Exploring Generative AI**  
