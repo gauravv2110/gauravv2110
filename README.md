@@ -62,7 +62,7 @@ Welcome to my GitHub profile! I’m passionate about transforming raw data into 
     <a href="https://github.com/gauravv2110" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" height="30"/>
     </a>
-    <a href="https://drive.google.com/drive/folders/154agCQhp5ZzqvnEmvcHxxc1Ct3I-i6Jk" target="_blank">
+    <a href="https://drive.google.com/file/d/1z4PnQrMXUBxG-H5EaEM7JMpFmUr_3-3J/view?usp=drive_link" target="_blank">
       <img src="https://img.icons8.com/color/48/000000/resume.png" alt="Resume" width="30" height="30" />
     </a>
   </span>
