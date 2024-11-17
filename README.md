@@ -78,14 +78,5 @@ Welcome to my GitHub profile! I’m passionate about transforming raw data into 
 
 ---
 
-## 📊 **My GitHub Stats**  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gauravv2110&show_icons=true&theme=tokyonight" alt="Gaurav's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravv2110&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 **✨ Motto:** *"Empowering decisions through data!"*  
 **📌 Fun Fact:**  *"Despite mastering Python, SQL, and Power BI, I still spend more time crafting README files than signing job offers!"* 🚀  
